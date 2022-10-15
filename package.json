@@ -1,0 +1,19 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "push": "node ./node_scripts/push.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umcai/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umcai/utils/issues"
+  },
+  "homepage": "https://github.com/umcai/utils#readme"
+}
